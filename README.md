@@ -10,7 +10,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ADITYAVOFFICIAL&theme=dark&hide_border=true" width = 400>
 </p>
-<h4>Thank's to GitHub</h4>
+<h2>Thank's to GitHub</h2>
  WELCOME TO THE SpaceInv WEBSITE  <br>
 
 PROGRAMS USED<br>
