@@ -10,9 +10,10 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ADITYAVOFFICIAL&theme=dark&hide_border=true" width = 400>
 </p>
+<h4>Thank's to GitHub</h4>
  WELCOME TO THE SpaceInv WEBSITE  <br>
 
-PROGRAM USED<br>
+PROGRAMS USED<br>
 >> HTML5, CSS<br>
 >> BOOTSTRAP V5<br>
 >> JAVASCRIPT<br>
@@ -21,7 +22,7 @@ PROGRAM USED<br>
 
 >>>> <h2 style="font-family: 'Carter One', cursive;"><a href="https://spaceinv.adityavermareal.repl.co/"><b>CLICK ME TO VISIT THE WEBSITE</a></b></h2> <<<<<
 
-$$DESCRIPTION$$<br>
+$$ DESCRIPTION $$<br>
 
 <h1 style="font-family: 'Carter One', cursive;">This website is made for National Coding Olympiad 2021 Hackathon<br>
   hosted by Codingal
