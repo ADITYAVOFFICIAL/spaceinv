@@ -21,6 +21,10 @@ PROGRAM USED<br>
 
 $$DESCRIPTION$$<br>
 
+<h1>This website is made for National Coding Olympiad 2021 Hackathon<br>
+  hosted by Codingal
+</h1>
+
 This website [Android app included] is based on the two themes best technological innovations as of today and a descriptive website on space science.<br>
 
 This website shares information on the best technological innovations as of today (Hardware and Software based) and Space science (Astronomy, Astronautics and Space-related Interdisciplinary Fields) with a quiz for the viewers.<br>
