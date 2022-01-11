@@ -2,7 +2,7 @@
 <a href="https://twitter.com/ADITYAVOFFICIAL" ><img src="https://img.shields.io/twitter/follow/ADITYAVOFFICIAL.svg?style=social" /> </a>
 <br>
 <a href="https://github.com/ADITYAVOFFICIAL/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ADITYAVOFFICIAL/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://instagram.com/aditya_verma_real" ><img src="https://img.shields.io/instagram/follow/aditya_verma_Real.svg?style=social" /> </a>
+<a href="https://www.youtube.com/channel/UC9zfSBBnZniAOrek0xMqUAw" ><img src="https://img.shields.io/youtube/channel/views/UC9zfSBBnZniAOrek0xMqUAw?style=social" /> </a>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&show_icons=true&theme=bear" width = 400>
