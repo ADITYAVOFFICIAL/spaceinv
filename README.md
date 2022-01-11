@@ -1,4 +1,6 @@
 # SpaceInv
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet"></head>
 <a href="https://twitter.com/ADITYAVOFFICIAL" ><img src="https://img.shields.io/twitter/follow/ADITYAVOFFICIAL.svg?style=social" /> </a>
 <br>
 <a href="https://github.com/ADITYAVOFFICIAL/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ADITYAVOFFICIAL/awesome-github-profile-readme" alt="Issues Badge"/></a>
@@ -17,11 +19,11 @@ PROGRAM USED<br>
 >> MS VISUAL STUDIO CODE<br>
 >> Windows 10 Version 21H2 X64<br>
 
->>>> <a href="https://spaceinv.adityavermareal.repl.co/" style="font-size=30px;"><b>CLICK ME TO VISIT THE WEBSITE</a></b> <<<<<
+>>>> <h2 style="font-family: 'Carter One', cursive;"><a href="https://spaceinv.adityavermareal.repl.co/"><b>CLICK ME TO VISIT THE WEBSITE</a></b></h2> <<<<<
 
 $$DESCRIPTION$$<br>
 
-<h1>This website is made for National Coding Olympiad 2021 Hackathon<br>
+<h1 style="font-family: 'Carter One', cursive;">This website is made for National Coding Olympiad 2021 Hackathon<br>
   hosted by Codingal
 </h1>
 
