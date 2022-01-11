@@ -2,6 +2,8 @@
 <a href="https://twitter.com/ADITYAVOFFICIAL" ><img src="https://img.shields.io/twitter/follow/ADITYAVOFFICIAL.svg?style=social" /> </a>
 <br>
 <a href="https://github.com/ADITYAVOFFICIAL/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ADITYAVOFFICIAL/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://instagram.com/aditya_verma_real" ><img src="https://img.shields.io/instagram/follow/aditya_verma_Real.svg?style=social" /> </a>
+<br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ADITYAVOFFICIAL&theme=dark&hide_border=true" width = 400>
