@@ -46,7 +46,7 @@ I'm fluent in HTML, java,CSS,python and react.<br>
 
 DURATION IN MAKING = 2 MONTHS<br>
 AUTHOR = ADITYA VERMA<br>
-FINIALIZATION DATE = 12 JANUARY 2022<br>
+FINIALIZATION DATE = 13 JANUARY 2022<br>
 
 
 </> FILE Count  </><br>
