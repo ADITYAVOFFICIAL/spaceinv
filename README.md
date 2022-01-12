@@ -34,6 +34,8 @@ This website shares information on the best technological innovations as of toda
 
 This website is rated GTmetrix class A with a performance of 96%<br>
 
+It is reviewed by 11 people from different backgrounds<br>
+
 Minimum 20mbps connection for a fast response but <50 Mbps recommended. It may take time to LOAD<BR>
 
 $ Mobile App also developed and available $. First, to access the website use the link given below
@@ -48,8 +50,8 @@ FINIALIZATION DATE = 12 JANUARY 2022<br>
 
 
 </> FILE Count  </><br>
-total = 75<br>
-HTML FILES = 22<br>
+total = 89<br>
+HTML FILES = 26<br>
 JS FILES = 19<br>
 CSS FILES = 44<br>
 
