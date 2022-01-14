@@ -30,6 +30,8 @@ $$ DESCRIPTION $$<br>
 
 This website [Android app included] is based on the two themes best technological innovations as of today and a descriptive website on space science.<br>
 
+IT has 360° Astronomy as well <br>
+
 This website shares information on the best technological innovations as of today (Hardware and Software based) and Space science (Astronomy, Astronautics and Space-related Interdisciplinary Fields) with a quiz for the viewers.<br>
 
 This website is rated GTmetrix class A with a performance of 96%<br>
