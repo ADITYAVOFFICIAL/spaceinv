@@ -4,7 +4,8 @@
 <a href="https://twitter.com/ADITYAVOFFICIAL" ><img src="https://img.shields.io/twitter/follow/ADITYAVOFFICIAL.svg?style=social" /> </a>
 <br>
 <a href="https://github.com/ADITYAVOFFICIAL/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/ADITYAVOFFICIAL/awesome-github-profile-readme" alt="Issues Badge"/></a>
-(https://img.shields.io/wordpress/plugin/installs/child-theme-check.svg)](https://wordpress.org/plugins/child-theme-check/advanced/) [![WordPress plugin rating]
+<a href="https://github.com/ADITYAVOFFICIAL/awesome-github-profile-readme/issues"><img src="https://img.shields.io/open-vsx/stars/spaceinv/java"></a>
+
 <a href="https://www.youtube.com/channel/UC9zfSBBnZniAOrek0xMqUAw" ><img src="https://img.shields.io/youtube/channel/views/UC9zfSBBnZniAOrek0xMqUAw?style=social" /> </a>
 <br>
 <p align = "center">
