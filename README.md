@@ -52,7 +52,7 @@ HTML FILES = 28<br>
 JS FILES = 19<br>
 CSS FILES = 44<br>
 
-LINKEDIN = https://www.linkedin.com/in/aditya-verma-real/
+LINKEDIN = https://www.linkedin.com/in/aditya-verma-real/<br>
 INSTAGRAM = https://www.instagram.com/aditya_verma_real/<br>
 TWITTER = https://twitter.com/ADITYAVOFFICIAL<br>
 GITHUB = https://github.com/ADITYAVOFFICIAL<br>
