@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SpaceInv | 5G</title>
+  <title>SpaceInv | Asteroids</title>
   <meta
     content="A Interactive website on best Technological Innovations as of today and Space Science with SpaceInv Quiz for the users made by Aditya Verma.I am a class 12 student of NCS Mumbai . I'm fluent in HTML, java,CSS,python and react."
     name="description">
@@ -28,6 +28,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Russo+One&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Galindo&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -48,6 +53,21 @@
 
   <!-- Highlight colours -->
   <style>
+    .responsive-youtube {
+      overflow: hidden;
+      padding-bottom: 56.25%;
+      position: relative;
+      height: 0;
+    }
+
+    .responsive-youtube iframe {
+      left: 0;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+
     img.rounded-corners {
       border-radius: 50px;
     }
@@ -78,7 +98,6 @@
       background: #2bae68;
     }
   </style>
-
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
@@ -126,7 +145,7 @@
           <li class="dropdown active"><a href="#" style="font-family:'Zen Dots', cursive;"><span>Topics</span> <i
                 class="bi bi-chevron-down"></i></a>
             <ul>
-              <li class="dropdown active"><a href="#" style="font-family:'Zen Dots', cursive;"><span>Technological
+              <li class="dropdown"><a href="#" style="font-family:'Zen Dots', cursive;"><span>Technological
                     Innovations</span>
                   <i class="bi bi-chevron-right"></i></a>
                 <ul>
@@ -143,7 +162,7 @@
                   </li>
                   <li><a href="bcc.html" style="font-family:'Zen Dots', cursive;">Bone-conduction communication</a></li>
                   <li><a href="prin.html" style="font-family:'Zen Dots', cursive;">3D printer</a></li>
-                  <li class="active"><a href="genfive.html" style="font-family:'Zen Dots', cursive;">5G</a></li>
+                  <li><a href="genfive.html" style="font-family:'Zen Dots', cursive;">5G</a></li>
                   <li><a href="se.html" style="font-family:'Zen Dots', cursive;">Synthetic Embryos</a></li>
                   <li><a href="block.html" style="font-family:'Zen Dots', cursive;">Blockchain</a></li>
                   <li><a href="iot.html" style="font-family:'Zen Dots', cursive;">IOT</a></li>
@@ -152,21 +171,26 @@
                   <li><a href="sm.html" style="font-family:'Zen Dots', cursive;">Swallowable Electronics</a></li>
                   <li><a href="ec.html" style="font-family:'Zen Dots', cursive;">Edge Computing</a></li>
                   <li><a href="sh.html" style="font-family:'Zen Dots', cursive;">Smart Homes</a></li>
-                  <li><a href="rpa.html" style="font-family:'Zen Dots', cursive;">Robotic Process Automation</a></li>
-                  <li><a href="mlcp.html" style="font-family:'Zen Dots', cursive;">Machine learning cyber-protection</a>
+                  <li><a href="rpa.html" style="font-family:'Zen Dots', cursive;">Robotic Process
+                      Automation</a></li>
+                  <li><a href="mlcp.html" style="font-family:'Zen Dots', cursive;">Machine learning
+                      cyber-protection</a>
                   </li>
-                  <li><a href="ha.html" style="font-family:'Zen Dots', cursive;">Human augmentation</a></li>
+                  <li><a href="ha.html" style="font-family:'Zen Dots', cursive;">Human augmentation</a>
+                  </li>
                   <li><a href="vrar.html" style="font-family:'Zen Dots', cursive;">VR and AR</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="#" style="font-family:'Zen Dots', cursive;"><span>Space Science</span>
+              <li class="dropdown active"><a href="#" style="font-family:'Zen Dots', cursive;"><span>Space
+                    Science</span>
                   <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="astro.html" style="font-family:'Zen Dots', cursive;">Astronomy</a></li>
                   <li><a href="ast.html" style="font-family:'Zen Dots', cursive;">Astronautics</a></li>
                   <li><a href="sri.html" style="font-family:'Zen Dots', cursive;">Space-Related Interdisciplinary
                       Fields</a>
-                  <li><a href="astroextra.html" style="font-family:'Zen Dots', cursive;">360° Astronomy</a></li>
+                  <li class="active"><a href="astroextra.html" style="font-family:'Zen Dots', cursive;">360°
+                      Astronomy</a></li>
                   <li><a href="ow.html" style="font-family:'Zen Dots', cursive;">Other Astronomy
                       Websites</a></li>
               </li>
@@ -187,7 +211,7 @@
                 style="font-family:'Zen Dots', cursive;"><span>Radio Invention
                   Website</span>
               </a></li>
-            
+           
             <li class="dropdown"><a
                 href="https://static.wixstatic.com/media/77aec2_3dbe34ad348d4e378d51ccf45f5d298a~mv2.jpg"
                 style="font-family:'Zen Dots', cursive;"><span>BEHIND THE SCENES SHEET</span>
@@ -205,8 +229,6 @@
 
     </div>
   </header><!-- End Header -->
-
-
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
@@ -215,168 +237,18 @@
 
         <ol style="font-family:'Josefin Sans', sans-serif;">
           <li><a href="index.html">Home</a></li>
-          <li>Technological Innovations</li>
-          <li><a href="genfive.html">5G</a></li>
+          <li>Space Science</li>
+          <li>360° Astronomy</li>
+          <li><a href="asteroid.html">Asteroids</a></li>
         </ol>
-        <h2 style="font-family: 'Bungee Inline', cursive;">5G</h2>
+        <h2 style="font-family: 'Bungee Inline', cursive;">Asteroids</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <!-- ======= gallery Details Section ======= -->
-    <section id="gallery-details" class="gallery-details">
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-8">
-            <div class="gallery-details-slider swiper">
-              <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="./assets/img/techi/techi28.jpg" alt="" class="rounded-corners">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="./assets/img/techi/techi29.jpg" alt="" class="rounded-corners">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="./assets/img/techi/techi30.jpg" alt="" class="rounded-corners">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="https://static.wixstatic.com/media/77aec2_d25d878386724f8aad6f034444650c62~mv2.jpg" alt=""
-                    class="rounded-corners">
-                </div>
-
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-
-          <div class="col-lg-4">
-            <div class="gallery-info">
-              <h3>Topic information</h3>
-              <ul>
-                <li><strong>Category</strong>: Technological Innovations</li>
-                <li><strong>Posted on</strong>: 10 January, 2022</li>
-                <li><strong>Author</strong>: <a href="https://website.adityavermareal.repl.co/#">Aditya Verma</a></li>
-              </ul>
-            </div>
-            <div class="gallery-description">
-              <h2 style="font-family: 'Carter One', cursive;">What is 5G?</h2>
-              <p style="font-family:'Josefin Sans', sans-serif;">5G is the 5th generation mobile network. It is a new
-                global wireless standard after 1G, 2G, 3G, and 4G networks. 5G enables a new kind of network that is
-                designed to connect virtually everyone and everything together including machines, objects, and
-                devices.<br><br>
-
-                5G wireless technology is meant to deliver higher multi-Gbps peak data speeds, ultra low latency, more
-                reliability, massive network capacity, increased availability, and a more uniform user experience to
-                more users. Higher performance and improved efficiency empower new user experiences and connects new
-                industries.</p>
-            </div>
-          </div>
-          <h2 style="font-family: 'Carter One', cursive;">How fast is 5G?</h2>
-          <p style="font-family:'Josefin Sans', sans-serif;">5G is designed to deliver peak data rates up to 20 Gbps
-            based on IMT-2020 requirements. Qualcomm Technologies’ flagship 5G solutions, the Qualcomm® Snapdragon™ X65
-            is designed to achieve up to 10 Gbps in downlink peak data rates.<br><br>
-
-            But 5G is about more than just how fast it is. In addition to higher peak data rates, 5G is designed to
-            provide much more network capacity by expanding into new spectrum, such as mmWave.<br><br>
-
-            5G can also deliver much lower latency for a more immediate response and can provide an overall more uniform
-            user experience so that the data rates stay consistently high—even when users are moving around. And the new
-            5G NR mobile network is backed up by a Gigabit LTE coverage foundation, which can provide ubiquitous
-            Gigabit-class connectivity.</p>
-          <img src="./assets/img/techi/genfive3.png" alt="differences between the previous generations of
-            mobile networks and 5G" class="rounded-corners">
-          <h2 style="font-family: 'Carter One', cursive;">What are the differences between the previous generations of
-            mobile networks and 5G?</h2>
-          <p style="font-family:'Josefin Sans', sans-serif;">The previous generations of mobile networks are 1G, 2G, 3G,
-            and 4G.</p>
-          <h4 style="font-family:'Josefin Sans', sans-serif;">First generation - 1G</h4>
-          <p style="font-family:'Josefin Sans', sans-serif;">1980s: 1G delivered analog voice.</p>
-          <h4 style="font-family:'Josefin Sans', sans-serif;">Second generation - 2G</h4>
-          <p style="font-family:'Josefin Sans', sans-serif;">Early 1990s: 2G introduced digital voice (e.g. CDMA- Code
-            Division Multiple Access).</p>
-          <h4 style="font-family:'Josefin Sans', sans-serif;">Third generation - 3G</h4>
-          <p style="font-family:'Josefin Sans', sans-serif;">Early 2000s: 3G brought mobile data (e.g. CDMA2000).</p>
-          <h4 style="font-family:'Josefin Sans', sans-serif;">Fourth generation - 4G LTE</h4>
-          <p style="font-family:'Josefin Sans', sans-serif;">2010s: 4G LTE ushered in the era of mobile broadband.</p>
-          <p style="font-family:'Josefin Sans', sans-serif;">1G, 2G, 3G, and 4G all led to 5G, which is designed to
-            provide more connectivity than was ever available before.<br><br>
-
-            5G is a unified, more capable air interface. It has been designed with an extended capacity to enable
-            next-generation user experiences, empower new deployment models and deliver new services.<br><br>
-
-            With high speeds, superior reliability and negligible latency, 5G will expand the mobile ecosystem into new
-            realms. 5G will impact every industry, making safer transportation, remote healthcare, precision
-            agriculture, digitized logistics — and more — a reality.</p>
-          <img src="./assets/img/techi/genfive1.png" alt="differences between the previous generations of
-          mobile networks and 5G" class="rounded-corners">
-          <h2 style="font-family: 'Carter One', cursive;">Where is 5G being used?</h2>
-          <p style="font-family:'Josefin Sans', sans-serif;">Broadly speaking, 5G is used across three main types of
-            connected services, including enhanced mobile broadband, mission-critical communications, and the massive
-            IoT. A defining capability of 5G is that it is designed for forward compatibility—the ability to flexibly
-            support future services that are unknown today.
-
-          </p>
-          <h3 style="font-family:'Josefin Sans', sans-serif;">Enhanced mobile broadband
-          </h3>
-          <p style="font-family:'Josefin Sans', sans-serif;">In addition to making our smartphones better, 5G mobile
-            technology can usher in new immersive experiences such as VR and AR with faster, more uniform data rates,
-            lower latency, and lower cost-per-bit.</p>
-          <h3 style="font-family:'Josefin Sans', sans-serif;">Mission-critical communications
-
-          </h3>
-          <p style="font-family:'Josefin Sans', sans-serif;">5G can enable new services that can transform industries
-            with ultra-reliable, available, low-latency links like remote control of critical infrastructure, vehicles,
-            and medical procedures.</p>
-          <h3 style="font-family:'Josefin Sans', sans-serif;">Massive IoT
-          </h3>
-          <p style="font-family:'Josefin Sans', sans-serif;">5G is meant to seamlessly connect a massive number of
-            embedded sensors in virtually everything through the ability to scale down in data rates, power, and
-            mobility—providing extremely lean and low-cost connectivity solutions.</p>
-          <h2 style="font-family: 'Carter One', cursive;">How and when will 5G affect the global economy?</h2>
-          <p style="font-family:'Josefin Sans', sans-serif;">5G is driving global growth.
-          <ul style="font-family:'Josefin Sans', sans-serif;">
-            <li>$13.1 Trillion dollars of global economic output</li>
-            <li>$22.8 Million new jobs created</li>
-            <li>$265B global 5G CAPEX and R&D annually over the next 15 years</li>
-
-            </p>
-            <p style="font-family:'Josefin Sans', sans-serif;">Through a landmark 5G Economy study, we found that 5G’s
-              full economic effect will likely be realized across the globe by 2035—supporting a wide range of
-              industries and potentially enabling up to $13.1 trillion worth of goods and services.<br><br>
-
-              This impact is much greater than previous network generations. The development requirements of the new 5G
-              network are also expanding beyond the traditional mobile networking players to industries such as the
-              automotive industry.<br><br>
-
-              The study also revealed that the 5G value chain (including OEMs, operators, content creators, app
-              developers, and consumers) could alone support up to 22.8 million jobs, or more than one job for every
-              person in Beijing, China. And there are many emerging and new applications that will still be defined in
-              the future. Only time will tell what the full “5G effect” on the economy is going to be.</p>
-          </ul>
-          <img src="./assets/img/techi/genfive4.png" alt="differences between the previous generations of
-            mobile networks and 5G" class="rounded-corners">
-          <h2 style="font-family: 'Carter One', cursive;">Do I need a new phone if I want 5G?</h2>
-          <p style="font-family:'Josefin Sans', sans-serif;">Yes, you will need to get a new smartphone that supports 5G
-            if you want to be able to use the network. For example, smartphones powered by the Snapdragon 5G Mobile
-            Platforms are 5G compatible.<br><br>
-
-            There are several new mobile phones available that are designed to support 5G, and multiple carriers across
-            the world support the 5G wireless network. As the 5G rollout timeline progresses, more smartphones and
-            carrier subscriptions will become available, as 5G technology and 5G compatible devices becoming more
-            mainstream.</p>
-          <img src="./assets/img/techi/genfive2.png" alt="differences between the previous generations of
-          mobile networks and 5G" class="rounded-corners">
-        </div>
-
-      </div>
-    </section><!-- End gallery Details Section -->
-
+    <div class="responsive-youtube responsive">
+      <iframe width="1280" height="400" src="https://eyes.nasa.gov/apps/asteroids/#/asteroids"></iframe>
+    </div>
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
