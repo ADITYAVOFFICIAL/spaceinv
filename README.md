@@ -26,10 +26,6 @@ PROGRAMS USED<br>
 
 $$ DESCRIPTION $$<br>
 
-<h1 style="font-family: 'Carter One', cursive;">This website is made for National Coding Olympiad 2021 Hackathon<br>
-  hosted by Codingal
-</h1>
-
 This website [Android app included] is based on the two themes best technological innovations as of today and a descriptive website on space science.<br>
 
 IT has 360° Astronomy as well <br>
@@ -45,9 +41,6 @@ Minimum 20mbps connection for a fast response but <50 Mbps recommended. It may t
 $ Mobile App also developed and available $. First, to access the website use the link given below
 and click on let’s go and wait, it will redirect you to the main website.<br>
 
-I am a class 12 student of NCS Mumbai [2021-22]. [Term 1 board exam just concluded]
-I'm fluent in HTML, java,CSS,python and react.<br>
-
 DURATION IN MAKING = 2 MONTHS<br>
 AUTHOR = ADITYA VERMA<br>
 FINIALIZATION DATE = 13 JANUARY 2022<br>
@@ -59,6 +52,7 @@ HTML FILES = 28<br>
 JS FILES = 19<br>
 CSS FILES = 44<br>
 
+LINKEDIN = https://www.linkedin.com/in/aditya-verma-real/
 INSTAGRAM = https://www.instagram.com/aditya_verma_real/<br>
 TWITTER = https://twitter.com/ADITYAVOFFICIAL<br>
 GITHUB = https://github.com/ADITYAVOFFICIAL<br>
